@@ -41,4 +41,4 @@ Read the matching workflow in [workflows.md](references/workflows.md) and follow
 
 ## Tool reference
 
-Use the workflow reference below for the calls needed for each supported task.
+Use the workflow reference for the calls needed for each supported task.
